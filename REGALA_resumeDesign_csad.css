@@ -1,0 +1,32 @@
+
+ul.j {
+  border-left: 5px solid green;
+  background-color: #e6ffe5;
+  list-style-type: none;
+  padding: 10px 20px;
+}
+
+
+body {
+ font-family: Verdana, Tahoma,'Trebuchet MS', Sans-serif;
+ color: green;
+ background-color: white;
+}
+
+h1 {
+font-weight: bold;
+font-family: Jenson,Baskerville ,Cambria , Serif;
+}
+
+h2{
+  background-color: #FFE8FC;
+  font-family: Jenson,Baskerville ,Cambria , Serif;
+  padding: 10px;
+}
+
+h3 {
+font-weight: bold;
+font-family: Jenson,Baskerville ,Cambria , Serif;
+font-style: italic;
+}
+
